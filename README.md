@@ -1,7 +1,7 @@
-[![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=2000)]
+![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=2000)
 <h1 align="center">Hi 👋, I'm Pamudu Prabathiya</h1>
 <h3 align="center">Passionate about transforming ideas into functional software</h3>
-<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47h8kb7qy9vmostk9pgn9nqrz7di8s47hvyweufauw&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="200" src="https://media1.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47h8kb7qy9vmostk9pgn9nqrz7di8s47hvyweufauw&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pamudu&label=Profile%20views&color=0e75b6&style=flat" alt="pamudu" /> </p>
 

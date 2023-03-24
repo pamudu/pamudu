@@ -1,11 +1,8 @@
 ![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=2000)
 <h1 align="center">Hi 👋, I'm Pamudu Prabathiya</h1>
 <h3 align="center">Passionate about transforming ideas into functional software</h3>
-<img align="right" alt="Coding" width="200" src="https://media1.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47h8kb7qy9vmostk9pgn9nqrz7di8s47hvyweufauw&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="250" src="https://media1.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47h8kb7qy9vmostk9pgn9nqrz7di8s47hvyweufauw&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pamudu&label=Profile%20views&color=0e75b6&style=flat" alt="pamudu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pamudu" alt="pamudu" /></a> </p>
 
 - 🔭 I’m currently working on **Sinhala Text Summarisation**
 
@@ -16,6 +13,10 @@
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **pamuduprabathiya28@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pamudu&label=Profile%20views&color=0e75b6&style=flat" alt="pamudu" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pamudu" alt="pamudu" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
